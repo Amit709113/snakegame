@@ -66,7 +66,8 @@
     
 }
 .food{
-    background-color:rgba(56, 27, 184, 0.804);
+    background-color:rgba(24, 7, 98, 0.804);
+    border:2px solid rgb(232, 30, 63);
     border-radius: 30px;
 
 }
